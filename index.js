@@ -49,3 +49,7 @@ store.subscribe(() => {
 
 store.dispatch(getProductAction());
 store.dispatch(addProductAction("pen"));
+
+
+this is extra code and added by Fozlur Rahman
+
